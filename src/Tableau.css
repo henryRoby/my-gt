@@ -1,0 +1,96 @@
+table{
+    margin-top: 50px;
+    text-align: center;
+    border: 1px solid rgb(21, 64, 252) !important;
+}
+
+.act{
+    width: 150px;
+
+}
+th{
+    font-weight: bolder;
+    border: 1px solid rgb(21, 252, 221) !important;
+}
+td{
+    background-color: white !important;
+    border: 1px solid rgb(21, 160, 252) !important;
+}
+
+#suppr{
+    margin-bottom: 2px;
+    padding-top: 2px !important;
+    height: 20px;
+    font-size: 10px;
+    font-weight: bolder;
+    margin-left:1px
+    
+}
+
+.react-confirm-alert-body {
+    color: black;
+    background-color: rgb(253, 139, 139);
+}
+.custom-ui{
+    background-color: rgb(33, 22, 190);  
+    height: 200px;
+    width: 280px;
+    
+}
+#edit{
+    float: right;
+    margin-bottom: 2px;
+    padding-top: 2px !important;
+    height: 20px;
+    font-size: 10px;
+    font-weight: bolder;
+    margin-left:1px
+}
+#total{
+    margin-left:1000px;
+    margin-bottom: 5px;
+}
+#total1{
+    margin-left:900px;
+    border: solid 1px;
+    text-align: center;
+}
+#erreur1{
+    color:red;
+    margin-left:40px;
+}
+
+#popup{
+    margin-top:20px;
+    margin-left:40px;
+    width:200px;
+    height:40px;
+}
+#bout{
+    margin-top:5px;
+    margin-left:40px;
+    margin-right:80px;
+}
+#ID{
+    background-color: blue;
+}
+#e{
+    width:150px;
+    margin-bottom: 5px;
+}
+#g{
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px
+}
+#l{
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px
+}
+#gt{
+    color:red;
+}
+#prix{
+    text-align: right;
+}
