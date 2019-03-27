@@ -1,0 +1,44 @@
+input{
+
+    width: 300px;
+    height: 42px;
+    border-radius: 5px;
+    border: none;
+    margin-right:10px;
+    margin-top:25px;
+    
+}
+.id1{
+    padding-right:20px !important;
+    margin-right: 148px;
+}
+
+label{
+    font-size: 20px;
+    font-weight: bolder; 
+    margin-left:0px;
+}
+
+#ajout{
+    font-weight: bolder;
+    float: right;
+}
+button{
+    margin-left: 50px;
+    text-align: right;
+}
+#ariary{
+    margin-right: 140px; 
+}
+#erreur{
+    margin-left:600px;
+    color : red;
+
+}
+form{
+    width:100%;
+    padding-top:20px;
+}
+.id2{
+   
+}
